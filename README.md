@@ -56,7 +56,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minh
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhsoliveira895-creator&show_icons=true&theme=tokyonight)
+![Status](https://img.shields.io/badge/Status-Em%20estudo%20e%20procurando%20oportunidade-7C3AED?style=for-the-badge)
+![Projetos](https://img.shields.io/badge/Projetos-em%20andamento-0A66C2?style=for-the-badge)
+![Aprendizado](https://img.shields.io/badge/Aprendizado-JavaScript%20%7C%20React%20%7C%20SQL-34D399?style=for-the-badge)
 
 </div>
 
