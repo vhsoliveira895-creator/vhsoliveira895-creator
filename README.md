@@ -1,6 +1,6 @@
 # Olá, eu sou Vitor Hugo 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em formação para atuar como desenvolvedor de software. Meu foco é aprender tecnologias que têm valor no mercado e construir projetos reais com boa qualidade.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade como desenvolvedor. Meu foco é aprender tecnologias que têm aplicação prática no mercado e construir projetos reais que resolvam problemas.
 
 <div align="center">
 
@@ -14,8 +14,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em formação pa
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Interessado em desenvolvimento web, lógica de programação e soluções práticas
 - 📚 Estudando JavaScript, React, Node.js, SQL, APIs e Git/GitHub
-- 🚀 Buscando meu primeiro estágio ou oportunidade como desenvolvedor júnior
-- 🤖 Usando IA como ferramenta para aprender mais rápido, revisar código e organizar ideias
+- 🚀 Buscando estágio ou oportunidade como desenvolvedor júnior
+- 🤖 Usando IA como ferramenta para acelerar estudos, revisar código e organizar ideias
 
 ## Stack atual
 
@@ -28,21 +28,29 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em formação pa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Objetivos
+## Objetivos profissionais
 
 - Desenvolver projetos reais e bem estruturados
 - Criar um portfólio forte para demonstrar habilidades
-- Aprender full stack com foco em produtos web
-- Conseguir minha primeira oportunidade na área
+- Aprender full stack com foco em aplicações web
+- Conseguir a primeira oportunidade no mercado
 - Evoluir com disciplina, prática e estudo constante
 
 ## Projetos em destaque
 
 - 🧩 Portfólio pessoal
 - 📝 Sistema de gerenciamento de tarefas
-- 📊 Dashboard de controle financeiro
+- 📊 Dashboard financeiro
 - 🌐 API com banco de dados
 - 🚀 Aplicações em React + Node.js
+
+## Como estou evoluindo
+
+- Estudando lógica de programação e fundamentos da web
+- Praticando JavaScript, HTML, CSS e React
+- Aprendendo desenvolvimento de APIs e integrações
+- Trabalhando com Git, GitHub e versionamento
+- Usando IA como apoio para estudo, organização e revisão de código
 
 ## Status
 
@@ -54,8 +62,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em formação pa
 
 ## Contato
 
-- 💼 Em busca de oportunidades de estágio e desenvolvimento júnior
+- 💼 Em busca de estágio ou oportunidade júnior
 - 📌 Disponível para projetos, desafios e colaboração
 - 🌐 GitHub: https://github.com/vhsoliveira895-creator
+- 💬 LinkedIn: seu-linkedin-aqui
+- 📧 E-mail: seu-email@exemplo.com
 
 > Estou em processo de evolução profissional e aberto a aprender, construir e crescer como desenvolvedor.
