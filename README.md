@@ -54,14 +54,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minh
 
 ## Status
 
-<div align="center">
-
-[![Open to Work](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20est%C3%A1gio-28A745?style=for-the-badge)](mailto:vhs.oliveira895@gmail.com?subject=Oportunidade%20de%20est%C3%A1gio%20-%20Vitor%20Hugo)
-[![Frontend](https://img.shields.io/badge/Foco-Desenvolvimento%20Web-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vitor-oliveira-25aa8b1a4/)
-[![Learning](https://img.shields.io/badge/Aprendendo-JavaScript%20%7C%20React%20%7C%20SQL-FFB300?style=for-the-badge)](https://github.com/vhsoliveira895-creator)
-[![GitHub](https://img.shields.io/badge/Perfil-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vhsoliveira895-creator)
-
-</div>
+- [Disponível para estágio](mailto:vhs.oliveira895@gmail.com?subject=Oportunidade%20de%20est%C3%A1gio%20-%20Vitor%20Hugo)
+- [GitHub](https://github.com/vhsoliveira895-creator)
+- [LinkedIn](https://www.linkedin.com/in/vitor-oliveira-25aa8b1a4/)
+- [Foco em desenvolvimento web](https://www.linkedin.com/in/vitor-oliveira-25aa8b1a4/)
+- [Aprendendo JavaScript, React e SQL](https://github.com/vhsoliveira895-creator)
 
 ## Contato
 
