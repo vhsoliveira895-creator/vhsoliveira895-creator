@@ -65,7 +65,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minh
 - 💼 Em busca de estágio ou oportunidade júnior
 - 📌 Disponível para projetos, desafios e colaboração
 - 🌐 GitHub: https://github.com/vhsoliveira895-creator
-- 💬 LinkedIn: seu-linkedin-aqui
-- 📧 E-mail: seu-email@exemplo.com
+- 📧 E-mail: vhs.oliveira895@gmail.com
+- 📱 Telefone: +55 (85) 99988-6993
 
 > Estou em processo de evolução profissional e aberto a aprender, construir e crescer como desenvolvedor.
