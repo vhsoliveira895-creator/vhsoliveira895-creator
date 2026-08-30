@@ -1,0 +1,47 @@
+# CSS3
+
+Nível: iniciante. Layout responsivo, cores, espaçamento e Flexbox.
+
+Exemplo: cabeçalho e grid simples.
+
+```css
+:root {
+  --fundo: #0f172a;
+  --texto: #e2e8f0;
+  --destaque: #38bdf8;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: var(--fundo);
+  color: var(--texto);
+}
+
+.topo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+}
+
+.produtos {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.card {
+  border: 1px solid #334155;
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+a {
+  color: var(--destaque);
+}
+```
+
+Arquivo: [exemplos/estilos.css](./exemplos/estilos.css)
+
+Onde já usei: [CellTech](https://github.com/vhsoliveira895-creator/meu-primeiro-site.) (`css/`).

@@ -1,4 +1,4 @@
-# Olá, eu sou Vitor Hugo 👋
+﻿# Olá, eu sou Vitor Hugo 👋
 
 Sou iniciante em desenvolvimento. Estudo Análise e Desenvolvimento de Sistemas e estou buscando estágio ou vaga júnior.
 
@@ -22,15 +22,17 @@ Meu caminho mistura **low-code** com front e back no nível de quem está começ
 
 ## Stack atual
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Cada badge abre um exemplo (não fica em branco): [índice da stack](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/README.md)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/javascript.md)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/html5.md)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/css3.md)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/react.md)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/python.md)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/sql.md)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/vscode.md)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/git.md)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vhsoliveira895-creator/vhsoliveira895-creator/blob/main/stack/github.md)
 
 ## Projetos
 
