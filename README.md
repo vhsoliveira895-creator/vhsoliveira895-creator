@@ -38,7 +38,7 @@ Cada badge abre um exemplo (não fica em branco): [índice da stack](https://git
 
 Tenho projetos prontos. Alguns ainda estão em ajuste (README, organização e acabamento). O que já está público:
 
-- [meu-primeiro-site](https://github.com/vhsoliveira895-creator/meu-primeiro-site.) — landing page **CellTech** com HTML, CSS e JavaScript (responsivo). Em fase de polimento.
+- [meu-primeiro-site](https://github.com/vhsoliveira895-creator/meu-primeiro-site.) — site institucional **ZA-TECH** com HTML, CSS e JavaScript (responsivo). Em fase de polimento.
 
 Quando os outros repositórios estiverem mais claros para avaliação, eu atualizo esta lista.
 
